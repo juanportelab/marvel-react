@@ -35,7 +35,7 @@ code {
 #slide-comics-image {
   padding: 50px 0;
   width: 100%;
-  /*background-image: url(./img/slide-comics.jpeg);*/
+  background-image: url(./img/slide-comics.jpeg);
   height: 350px;
   background-position: top;
 }
@@ -43,14 +43,14 @@ code {
 #slide-series-image {
   padding: 50px 0;
   width: 100%;
-  /*background-image: url(./img/last-movies.jpeg);*/
+  background-image: url(./img/last-movies.jpeg);
   height: 350px;
   background-position: top;
 }
 
 .error-404 {
   width: 100%;
-  /*background-image: url(./img/page-404.jpeg);*/
+  background-image: url(./img/page-404.jpeg);
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
