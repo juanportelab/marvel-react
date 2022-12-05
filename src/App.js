@@ -6,12 +6,13 @@ import Series from './pages/Series';
 import Comics from './pages/Comics';
 import Error404 from './pages/Error404';
 import Header from './components/Header';
-import useFetch from './hooks/useFetch';
+//import useFetch from './hooks/useFetch';
 
 function App() {
 
-  const exampleApi = useFetch('http://gateway.marvel.com/v1/public/comics?ts=1&apikey=f942a5ceea7b8677426993bd48c5c8f3&hash=2c3c73079b7c62f832c5b18e3c2b9e6a');
-  console.log(exampleApi);
+  //const exampleApi = useFetch('http://gateway.marvel.com/v1/public/comics?ts=1&apikey=f942a5ceea7b8677426993bd48c5c8f3&hash=2c3c73079b7c62f832c5b18e3c2b9e6a');
+  //console.log("desde app.js");
+  //console.log(exampleApi);
 
   return (
     <div>
